@@ -21,6 +21,7 @@ This iOS app fetches data from a provided API endpoint and displays it in a UITa
 4. **Callback Memorization:**
    - Develops a detailed view for each list item that reveals additional information upon selection.
    - Passes necessary data from the selected item to the detailed view using segues or other appropriate mechanisms.
+   - Employ memorization of callback functions to prevent unnecessary re-computation or re-rendering.
 
 ## Requirements
 
